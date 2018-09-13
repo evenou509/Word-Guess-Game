@@ -1,0 +1,30 @@
+body {
+    color: #a4f442;
+    background-image: url("./../images/OVO.jpg");
+    background-size: cover;
+    /* background-blend-mode: multiply; */
+}
+
+.container {
+    text-align: center;
+}
+
+#message {
+    outline: none;
+    border: none;
+    cursor: pointer;
+    background-color: #a4f442;
+    font-size: 22px;
+    font-weight: bold;
+    padding: 10px;
+    border-radius: 20px;
+}
+
+#placeholders {
+    letter-spacing: 6px;
+    font-size: 30px;
+}
+
+footer {
+    text-align: center;
+}
